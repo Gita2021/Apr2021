@@ -111,6 +111,8 @@ namespace ConsoleApp1.Pages
             ////*[@id="tmsGrid"]/div[4]/span[2]
             Console.WriteLine("Record is deleted");
 
+            
+
         }
     }
 }
